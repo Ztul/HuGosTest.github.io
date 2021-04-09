@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ztul.github.io/HuGosTest.github.io/post/2021/04/01_erster_post/</loc>
+    <lastmod>2021-04-08T20:39:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ztul.github.io/HuGosTest.github.io/post/</loc>
+    <lastmod>2021-04-08T20:39:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ztul.github.io/HuGosTest.github.io/</loc>
+    <lastmod>2021-04-08T20:39:07+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ztul.github.io/HuGosTest.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://ztul.github.io/HuGosTest.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ztul.github.io/HuGosTest.github.io/</loc>
   </url>
   
 </urlset>
